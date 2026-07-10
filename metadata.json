@@ -1,0 +1,6 @@
+{
+  "name": "Brand Animator",
+  "description": "Design custom brand logos using Gemini 3 Pro and animate them into dynamic videos with Veo 3.1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
